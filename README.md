@@ -1,3 +1,4 @@
+
 # Discord-Translation-BOT
 スラッシュコマンドに対応した翻訳BOT
 ### 動作環境
@@ -25,3 +26,22 @@
 `pip install discord-ext-ui`  
 `pip install --upgrade deepl`  
 ↑いらないモジュールもあるかも？
+
+
+# コマンド
+**日本語から多言語へ翻訳する場合**  
+`/ja_en`  
+`/ja_cn`  
+`/ja_ko`  
+**英語から多言語へ翻訳する場合**  
+`/en_ja`  
+`/en_cn`  
+`/en_ko`  
+**中国語から多言語へ翻訳する場合**  
+`/cn_ja`  
+`/cn_en`  
+`/cn_ko`  
+**韓国語から多言語へ翻訳する場合**  
+`/ko_ja`  
+`/ko_en`  
+`/ko_cn`  
