@@ -1,0 +1,13 @@
+---
+Keys :
+# Discord Token
+  Token : "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+# Discord Test_Token
+  Test_Token : "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+# Naver Open API application ID (Papago)
+  client_id : "xxxxxxxxxxxxxxxxxxxx"
+# Naver Open API application token (Papago)
+  client_secret : "xxxxxxxxxx"
+# DeepL API Key
+  DeepL_Token : "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+...
