@@ -34,7 +34,7 @@
 `pip install --upgrade deepl`  
 ↑いらないモジュールもあるかも？
 
----
+
 # 事前準備   
 > ### Discord BOTの設定   
 
