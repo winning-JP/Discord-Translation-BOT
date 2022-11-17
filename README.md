@@ -32,16 +32,16 @@
 **日本語から多言語へ翻訳する場合**  
 `/ja_en`  
 `/ja_cn`  
-`/ja_ko`  
+`/ja_ko`　※Papago API使用  
 **英語から多言語へ翻訳する場合**  
 `/en_ja`  
 `/en_cn`  
-`/en_ko`  
+`/en_ko`　※Papago API使用  
 **中国語から多言語へ翻訳する場合**  
 `/cn_ja`  
 `/cn_en`  
-`/cn_ko`  
-**韓国語から多言語へ翻訳する場合**  
+`/cn_ko`　※Papago API使用  
+**韓国語から多言語へ翻訳する場合 ※Papago API使用**  
 `/ko_ja`  
 `/ko_en`  
 `/ko_cn`  
